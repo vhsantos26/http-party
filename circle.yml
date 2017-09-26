@@ -7,7 +7,7 @@ dependencies:
     - curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
     - sudo apt-get install jq nodejs curl -qy
     - npm install -g json-server
-    - json-server --watch endpoints.json
+    - json-server --watch endpoints.json:
         backgroud: true
 
 test:
