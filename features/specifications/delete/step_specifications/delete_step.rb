@@ -1,6 +1,6 @@
 Given (/^I send a DELETE request on client endpoint.$/) do
     @body_delete = {
-        "id": 2
+        "id": 1
     }.to_json
 
     @delete_request = HTTParty.delete 'http://localhost:3000/clientes/1',

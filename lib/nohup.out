@@ -1,0 +1,17 @@
+
+  \{^_^}/ hi!
+
+  Loading endpoints.json
+  Done
+
+  Resources
+  http://localhost:3000/clientes
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible

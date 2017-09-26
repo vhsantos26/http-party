@@ -6,7 +6,7 @@ Given (/^I send a PUT request on client endpoint.$/) do
         "usuario": Faker::Pokemon.name,
         "senha": Faker::Base.numerify('inicial####')
     }.to_json
-    @put_request = HTTParty.put 'http://localhost:3000/clientes/2',
+    @put_request = HTTParty.put 'http://localhost:3000/clientes/1',
         :body => @body_put,
         :headers => {
             "Content-Type" => 'application/json'
