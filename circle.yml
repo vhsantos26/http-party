@@ -8,6 +8,7 @@ dependencies:
     - sudo apt-get install jq nodejs curl -qy
     - npm install -g json-server
     - json-server --watch endpoints.json
+        backgroud: true
 
 test:
   override:
