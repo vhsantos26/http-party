@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nome": "Katrine Hermiston",
+      "cpf": "55501307936",
+      "endereco": "Sullust",
+      "usuario": "Tangela",
+      "senha": "inicial5083",
+      "id": 2
+    },
+    {
+      "nome": "Sadye Abbott",
+      "cpf": "60769558992",
+      "endereco": "Coruscant",
+      "usuario": "Chansey",
+      "senha": "inicial1171",
+      "id": 3
+    },
+    {
+      "nome": "Ava Kreiger",
+      "cpf": "78691472901",
+      "endereco": "Hosnian Prime",
+      "usuario": "Vulpix",
+      "senha": "inicial2273",
+      "id": 4
+    }
+  ]
+}
